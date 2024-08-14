@@ -1,1 +1,1 @@
-echo # spotify_most_streamed_2023
+This repository contains analysis of a spotify most streamed songs of 2023 dataset.
